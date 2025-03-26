@@ -5,6 +5,7 @@ This repository contains a project focused on **3D semantic segmentation of brai
 
 ## Dataset Used
 - **BraTS 2024 Metastasis Dataset**: Multi-modal MRI images (T1, T1c, T2, FLAIR) along with segmentation masks that mark tumor regions.
+Dataset Link : https://drive.google.com/drive/folders/1VISq6dnCY-q7UVevCvrUhOFrzewBoQxw?usp=sharing
 
 ## Installation
 
